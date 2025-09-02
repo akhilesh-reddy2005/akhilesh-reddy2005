@@ -7,10 +7,10 @@
 ---
 
 ## 🌟 About Me
-I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Cloud solutions**, **machine learning**, and **full-stack development**. With a strong foundation in **HTML, CSS, JavaScript, SQL, and Python**, I enjoy solving real-world problems through code.  
+I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web development, database systems, and algorithmic problem solving**. With a strong foundation in **Python, C++, Java, SQL, and Full-Stack Development**, I enjoy solving real-world problems through code.  
 
 - 🌱 Currently learning: **Generative AI & Cloud Infrastructure**  
-- 💡 Interests: **AI, Machine Learning, Cloud, and Scalable Web Apps**  
+- 🌐 Portfolio: [My Portfolio](https://akhileshreddy.me) <!-- Replace with actual link -->  
 - 📫 Reach me at: **akhileshreddy1246@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
 
@@ -33,8 +33,13 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
 </p>
 
+---
 
-
+## 🗣️ Languages I Speak
+- English  
+- Hindi  
+- Telugu  
+- Kannada  
 
 ---
 
@@ -82,4 +87,4 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/)  
 
 ---
-✨ _“Turning ideas into scalable solutions with code & cloud.”_
+✨ _“Turning ideas into scalable solutions with code & creativity.”_
