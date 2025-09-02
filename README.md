@@ -81,7 +81,7 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 ---
 
 ## 📫 Contact
-📍 Kamasamudram, Kolar, Karnataka, India  
+📍 Bangalore, Karnataka, India  
 📧 **akhileshreddy1246@gmail.com**  
 📱 +91-7760007395  
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/)  
