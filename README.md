@@ -17,9 +17,22 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
 ---
 
 ## 🛠️ Skills & Tools
+
+### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,php,sql,git,github,react,nodejs,mongodb,java,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql,git,github" />
 </p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws" />
+</p>
+
 
 ---
 
