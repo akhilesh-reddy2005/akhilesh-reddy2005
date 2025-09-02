@@ -28,10 +28,11 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🔧 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
 </p>
+
 
 
 ---
