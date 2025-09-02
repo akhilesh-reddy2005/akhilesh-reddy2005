@@ -10,7 +10,7 @@
 I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web development, database systems, and algorithmic problem solving**. With a strong foundation in **Python, C++, Java, SQL, and Full-Stack Development**, I enjoy solving real-world problems through code.  
 
 - 🌱 Currently learning: **Generative AI & Cloud Infrastructure**  
-- 🌐 Portfolio: [My Portfolio](https://akhileshreddy.me) <!-- Replace with actual link -->  
+- 🌐 Portfolio: [My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)
 - 📫 Reach me at: **akhileshreddy1246@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
 
