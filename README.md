@@ -20,7 +20,7 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
 
 ### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql" />
 </p>
 
 ### 💻 Programming Languages
@@ -32,6 +32,7 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **Google Clou
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
 </p>
+
 
 
 
