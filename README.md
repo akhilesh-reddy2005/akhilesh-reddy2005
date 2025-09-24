@@ -1,23 +1,29 @@
-# 👋 Hi, I'm Akhilesh Reddy
+# 👋 Hi, I'm Akhilesh Reddy  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 
 🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
 💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
-🚀 Passionate about building **scalable, efficient, and impactful applications**
+🚀 Passionate about building **scalable, efficient, and impactful applications**  
 
 ---
 
 ## 🌟 About Me
-I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web development, database systems, and algorithmic problem solving**. With a strong foundation in **Python, C++, Java, SQL, and Full-Stack Development**, I enjoy solving real-world problems through code.  
+I am **Akhilesh Reddy**, a tech enthusiast with hands-on experience in **web development, database systems, and algorithmic problem solving**.  
+I love solving real-world problems with **Python, C++, Java, SQL, and Full-Stack Development**.  
 
-- 🌱 Currently learning: **Generative AI & Cloud Infrastructure**  
-- 🌐 Portfolio: [My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)
-- 📫 Reach me at: **akhileshreddy1246@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
+- 🌱 Currently exploring: **Generative AI & Cloud Infrastructure**  
+- 🌐 Portfolio: [🔗 My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)  
+- 📫 Reach me: **akhileshreddy1246@gmail.com**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhilesh-reddy-612580292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://github.com/akhilesh-reddy2005"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge"></a>
+  <a href="mailto:akhileshreddy1246@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&style=for-the-badge"></a>
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools
-
 ### 🌐 Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql" />
@@ -36,31 +42,30 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 ---
 
 ## 🗣️ Languages I Speak
-- English  
-- Hindi  
-- Telugu  
-- Kannada  
+🌍 English | हिंदी | తెలుగు | ಕನ್ನಡ  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🔹 [Shortest Roadway for Power Restoration](https://github.com/akhilesh-reddy2005/Shortest-Roadway-for-Power-Restoration)
-- Designed a solution using **Dijkstra’s Algorithm** to restore electricity quickly after natural disasters.  
-- Integrated **GIS mapping** to locate nearest substations and optimize power restoration.  
-- Built a backend system for **real-time data processing and visualization**.
+⚡ Built using **Dijkstra’s Algorithm** for quick electricity restoration after disasters.  
+🗺️ Integrated **GIS mapping** for real-time substation tracking.  
+📊 Backend enabled **live data visualization**.  
+
+---
 
 ### 🔹 SHINEX Seeds Company – Portfolio Website
-- Created a **responsive portfolio website** for Shinex Pvt. Ltd.  
-- Built sections on services, CSR, and a dynamic **Contact Us** page with backend integration.  
-- Optimized the site for **SEO & speed**, ensuring cross-browser compatibility.  
+🌐 Responsive & modern portfolio for **Shinex Pvt. Ltd.**  
+📞 Dynamic **Contact Us form with backend integration**.  
+🚀 Optimized for **SEO, speed & cross-browser compatibility**.  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Top 10 team at **Hack4Change Hackathon**  
-- 🎖️ Completed **Google Cloud Study Jams** with hands-on experience in **AI/ML, application deployment, and cloud resource management**  
-- 📜 Certifications in **Generative AI & Google Cloud**
+🥇 Top 10 team – **Hack4Change Hackathon**  
+☁️ Completed **Google Cloud Study Jams** (AI/ML, app deployment & infra)  
+📜 Certified in **Generative AI & Google Cloud**  
 
 ---
 
@@ -72,11 +77,26 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 ---
 
 ## 📊 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight)  
+---
+
+## 😂 Daily Tech Joke
+> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
+
+---
+
+## 🏅 Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilesh-reddy2005&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
@@ -84,7 +104,7 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 📍 Bangalore, Karnataka, India  
 📧 **akhileshreddy1246@gmail.com**  
 📱 +91-7760007395  
-🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/)  
 
 ---
-✨ _“Turning ideas into scalable solutions with code & creativity.”_
+
+✨ *“Turning ideas into scalable solutions with code & creativity.”* 🚀  
