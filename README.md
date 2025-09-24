@@ -83,9 +83,9 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
