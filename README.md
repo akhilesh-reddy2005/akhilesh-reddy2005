@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=45&fontAlignY=35&color=gradient&animation=twinkling&fontColor=fff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Always+learning+new+tech;Let’s+connect+and+collaborate+🚀" alt="Typing SVG" />
-</p>
-
-
-
 🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
 💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
 🚀 Passionate about building **scalable, efficient, and impactful applications**
