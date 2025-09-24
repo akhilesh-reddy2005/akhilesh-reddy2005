@@ -83,23 +83,21 @@ I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web develop
 
 ---
 
-## 📊 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Streak"/>
 </p>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Top Languages"/>
+</p>
 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+## 🐍 Contribution Animation <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
 ---
 
 ## 😂 Daily Tech Joke
