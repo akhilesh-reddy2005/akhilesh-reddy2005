@@ -1,8 +1,8 @@
-<!-- Welcome Banner -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=45&fontAlignY=40&color=0:9333EA,100:14B8A6&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
