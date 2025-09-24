@@ -1,41 +1,91 @@
-<!-- Header Banner -->
+<!-- Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Custom Banner (replace with your own image) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/main/assets/banner.png" alt="Akhilesh Reddy Banner" />
+🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
+💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
+🚀 Passionate about building **scalable, efficient, and impactful applications**
+
+---
+
+## 🌟 About Me
+I am Akhilesh Reddy, a tech enthusiast with hands-on experience in **web development, database systems, and algorithmic problem solving**. With a strong foundation in **Python, C++, Java, SQL, and Full-Stack Development**, I enjoy solving real-world problems through code.  
+
+- 🌱 Currently learning: **Generative AI & Cloud Infrastructure**  
+- 🌐 Portfolio: [My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)  
+- 📫 Reach me at: **akhileshreddy1246@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🌐 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+### 🔧 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
 </p>
 
 ---
 
-# Hi 👋 My name is **Akhilesh Reddy**
-
-🎓 B.Tech Computer Science @ Jain University  
-💻 Passionate about **Web Development | Cloud | Database Systems**  
-🚀 Building **scalable, efficient & impactful applications**  
-
----
-
-## 🔥 GitHub Streaks & Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight" height="150"/>
-</p>
+## 🗣️ Languages I Speak
+- English  
+- Hindi  
+- Telugu  
+- Kannada  
 
 ---
 
-## 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 📂 Projects
+
+### 🔹 [Shortest Roadway for Power Restoration](https://github.com/akhilesh-reddy2005/Shortest-Roadway-for-Power-Restoration)
+- Designed a solution using **Dijkstra’s Algorithm** to restore electricity quickly after natural disasters.  
+- Integrated **GIS mapping** to locate nearest substations and optimize power restoration.  
+- Built a backend system for **real-time data processing and visualization**.
+
+### 🔹 SHINEX Seeds Company – Portfolio Website
+- Created a **responsive portfolio website** for Shinex Pvt. Ltd.  
+- Built sections on services, CSR, and a dynamic **Contact Us** page with backend integration.  
+- Optimized the site for **SEO & speed**, ensuring cross-browser compatibility.  
 
 ---
 
-## 📊 Languages & Tools
+## 🏆 Achievements
+- 🥇 Top 10 team at **Hack4Change Hackathon**  
+- 🎖️ Completed **Google Cloud Study Jams** with hands-on experience in **AI/ML, application deployment, and cloud resource management**  
+- 📜 Certifications in **Generative AI & Google Cloud**
+
+---
+
+## 🎓 Education
+- **B.Tech, Computer Science** – Jain Deemed-to-be University (2023–2027)  
+- **PUC, Science** – Vidya Jyothi PU College, Kolar (2021–2023)  
+- **Schooling** – Kendriya Vidyalaya, BEML Nagar (2011–2021)  
+
+---
+
+## 📊 GitHub Stats
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight)  
+
+---
+
+## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,nodejs,mongodb,sql,git,github,vscode,figma,postman" />
+  <img src="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -46,11 +96,13 @@
 ---
 
 ## 📫 Contact
+📍 Bangalore, Karnataka, India  
 📧 **akhileshreddy1246@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
+📱 +91-7760007395  
+🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/)  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer"/>
+  ✨ _“Turning ideas into scalable solutions with code & creativity.”_ 🚀
 </p>
