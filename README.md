@@ -1,7 +1,16 @@
 <!-- Welcome Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=45&fontAlignY=35&color=gradient&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=45&fontAlignY=40&color=0:9333EA,100:14B8A6&animation=fadeIn&fontColor=ffffff" />
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+GitHub!;💻+Always+learning+new+tech;🤝+Let’s+connect+and+collaborate" alt="Typing Animation" />
+  </a>
+</p>
+
 
 🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
 💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
