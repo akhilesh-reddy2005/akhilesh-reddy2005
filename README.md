@@ -1,7 +1,12 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=45&fontAlignY=35&color=gradient&animation=twinkling&fontColor=fff&desc=💻%20Web%20Developer%20|%20☁️%20Cloud%20Explorer%20|%20🚀%20Tech%20Enthusiast&descAlignY=55&descAlign=50"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+scalable+apps;Always+learning+new+tech;Let’s+connect+and+collaborate+🚀" alt="Typing SVG" />
+</p>
+
 
 🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
 💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
