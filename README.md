@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+GitHub!;💻+Always+learning+new+tech;🤝+Let’s+connect+and+collaborate" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+GitHub!;💻+Full+Stack+Developer;🌱+Exploring+AI+%26+Cloud;🤝+Open+to+collaborations" alt="Typing Animation" />
   </a>
 </p>
 
@@ -18,11 +18,12 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🛠️ I'm currently working on **full-stack web applications and freelance projects**  
-- 🌱 I'm currently learning **Generative AI & Cloud Infrastructure**  
-- 🤝 I'm looking to collaborate on **innovative open-source projects**  
-- 💼 Available for **freelance website development projects**  
-- 💬 Ask me about **Python, JavaScript, and data visualization**  
+🎓 **3rd-year B.Tech CSE student** at Jain University  
+💻 Skilled in **MERN stack (MongoDB, Express, React, Node.js)** and **Full-Stack Development**  
+🚀 Passionate about building **scalable, user-friendly applications**  
+🤖 Currently learning **Generative AI & Cloud Infrastructure**  
+🏆 Hackathon achiever – **Top 10 at Hack4Change** & participant in **Buildverse 24-Hour Hackathon**  
+💼 Internship: **Full Stack Development Intern @ Infotact Solutions** (MERN stack projects)  
 
 </td>
 <td width="40%" align="center">
@@ -35,50 +36,53 @@
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠 Skills & Tools  
 
-### 🌐 Full Stack Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,mongodb,sql" />
-</p>
-
-### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
-</p>
-
-### 🔧 Tools & IDEs  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
-</p>
+**Languages & Frameworks:** HTML, CSS, JavaScript, PHP, Python, C, C++, Java, React, Node.js  
+**Databases:** SQL, Firebase, MongoDB  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Figma  
+**Other:** Responsive Web Design, SEO Basics  
 
 ---
 
 ## 📂 Projects  
 
 ### 🔹 [Shortest Roadway for Power Restoration](https://github.com/akhilesh-reddy2005/Shortest-Roadway-for-Power-Restoration)  
-- Designed a solution using **Dijkstra’s Algorithm** to restore electricity quickly after natural disasters.  
-- Integrated **GIS mapping** to locate nearest substations and optimize power restoration.  
-- Built a backend system for **real-time data processing and visualization**.  
+- Built solution using **Dijkstra’s Algorithm** + **GIS Mapping** for disaster recovery  
+- Backend for **real-time data visualization**  
 
-### 🔹 SHINEX Seeds Company – Portfolio Website  
-- Created a **responsive portfolio website** for Shinex Pvt. Ltd.  
-- Built sections on services, CSR, and a dynamic **Contact Us** page with backend integration.  
-- Optimized the site for **SEO & speed**, ensuring cross-browser compatibility.  
+### 🔹 [Shinex Seeds Portfolio Website](#)  
+- Responsive business portfolio site with backend contact integration  
+- SEO optimized & mobile-first design  
+
+### 🔹 Buildverse Hackathon – Campus Reporting Portal  
+- 24-hour hackathon project with **real-time complaint tracking**  
+- Collaborative teamwork with functional prototype  
 
 ---
 
-## 🏆 Achievements  
-- 🥇 Top 10 team at **Hack4Change Hackathon**  
-- 🎖️ Completed **Google Cloud Study Jams** with hands-on experience in **AI/ML, application deployment, and cloud resource management**  
-- 📜 Certifications in **Generative AI & Google Cloud**  
+## 🏆 Achievements & Certifications  
+- 🥇 **Top 10 team** – Hack4Change Hackathon  
+- 🎓 **Infotact Solutions Internship** (Full Stack, MERN)  
+- ✅ Certifications in **Responsive Web Design & SEO**  
+- ☁️ Hands-on with **Google Cloud Study Jams**  
 
 ---
 
 ## 🎓 Education  
-- **B.Tech, Computer Science** – Jain Deemed-to-be University (2023–2027)  
-- **PUC, Science** – Vidya Jyothi PU College, Kolar (2021–2023)  
-- **Schooling** – Kendriya Vidyalaya, BEML Nagar (2011–2021)  
+- **B.Tech (CSE)** – Jain University (2023–2027) | **CGPA: 7.84/10**  
+- **PUC (Science)** – Vidya Jyothi PU College (2021–2023) | 77.83%  
+- **10th (CBSE)** – Kendriya Vidyalaya (2011–2021) | 63.6%  
+
+---
+
+## 🌐 Languages  
+
+- 🏅 **English** – Read, Write & Speak  
+- 🏅 **Hindi** – Read, Write & Speak  
+- 🗣 **Telugu** – Speak, Read 
+- 📖 **Kannada** – Speak, Read  
+- 🗣 **Tamil** – Speak  
 
 ---
 
@@ -111,16 +115,11 @@
 
 ---
 
-## 😂 Daily Tech Joke  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
 ## 📫 Contact  
 📍 Bangalore, Karnataka, India  
 📧 **akhileshreddy1246@gmail.com**  
 📱 +91-7760007395  
-🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)  
 
 ---
 
