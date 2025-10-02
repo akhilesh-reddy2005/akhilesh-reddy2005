@@ -35,12 +35,6 @@
 
 ---
 
-
----
-
-
----
-
 ## 🛠️ Skills & Tools  
 
 ### 🌐 Full Stack Development  
