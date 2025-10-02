@@ -14,18 +14,20 @@
 
 ## 🌟 About Me  
 
-🎓 **3rd-year B.Tech CSE student @ Jain University**  
-💻 Hands-on with **MERN Stack (MongoDB, Express, React, Node.js)**  
-🚀 Building **scalable, user-friendly apps**  
-🤖 Exploring **Generative AI & Cloud Infrastructure**  
-🏆 Hackathon finalist (**Top 10 – Hack4Change**)  
-💼 Former **Full Stack Intern @ Infotact Solutions**  
+<p align="left">
+I’m Akhilesh Reddy, a passionate <b>Full Stack Developer</b> and <b>B.Tech Computer Science student at Jain University</b>.  
+With hands-on experience in the <b>MERN stack (MongoDB, Express, React, Node.js)</b>, I enjoy creating scalable and user-friendly applications.  
+Currently, I’m exploring <b>Generative AI & Cloud Infrastructure</b>, while also working on real-world web projects and collaborating on open-source contributions.  
+I have participated in hackathons, including <b>Hack4Change</b> (Top 10) and <b>Buildverse</b>, and completed an internship at <b>Infotact Solutions</b> as a Full Stack Intern.  
+My focus is on solving real-world challenges through clean code, creativity, and teamwork.
+</p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="250"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="300" style="background:none; border:none; box-shadow:none;" />
 </p>
 
 ---
+
 
 
 ## 🛠 Skills & Tools  
