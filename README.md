@@ -80,8 +80,8 @@
 
 - 🏅 **English** – Read, Write & Speak  
 - 🏅 **Hindi** – Read, Write & Speak  
-- 🗣 **Telugu** – Speak, Read 
-- 📖 **Kannada** – Speak, Read  
+- 🗣 **Telugu** – Speak  
+- 📖 **Kannada** – Read  
 - 🗣 **Tamil** – Speak  
 
 ---
