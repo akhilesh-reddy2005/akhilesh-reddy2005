@@ -12,7 +12,14 @@
 
 ---
 
+---
+
 ## 🌟 About Me  
+
+<table>
+<tr>
+<td width="60%">
+
 🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
 💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
 🚀 Passionate about building **scalable, efficient, and impactful applications**
@@ -21,6 +28,18 @@
 - 🌐 Portfolio: [My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)  
 - 📫 Reach me at: **akhileshreddy1246@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ---
 
@@ -89,13 +108,6 @@
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akhilesh-reddy2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🎨 Coding Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="500" />
 </p>
 
 ---
