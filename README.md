@@ -14,27 +14,19 @@
 
 ## 🌟 About Me  
 
-<table>
-<tr>
-<td width="60%" valign="top">
+🎓 **3rd-year B.Tech CSE student @ Jain University**  
+💻 Hands-on with **MERN Stack (MongoDB, Express, React, Node.js)**  
+🚀 Building **scalable, user-friendly apps**  
+🤖 Exploring **Generative AI & Cloud Infrastructure**  
+🏆 Hackathon finalist (**Top 10 – Hack4Change**)  
+💼 Former **Full Stack Intern @ Infotact Solutions**  
 
-- 🎓 **3rd-year B.Tech CSE student @ Jain University**  
-- 💻 Hands-on with **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 🚀 Building **scalable, user-friendly apps**  
-- 🤖 Exploring **Generative AI & Cloud Infrastructure**  
-- 🏆 Hackathon finalist (**Top 10 – Hack4Change**)  
-- 💼 Former **Full Stack Intern @ Infotact Solutions**  
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="300"/>
-
-</td>
-</tr>
-</table>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="250"/>
+</p>
 
 ---
+
 
 ## 🛠 Skills & Tools  
 
