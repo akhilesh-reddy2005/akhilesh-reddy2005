@@ -14,20 +14,19 @@
 
 ---
 
-## 🌟 About Me  
+---
+
+## 🔥 About Me  
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-🎓 **B.Tech Computer Science student** at Jain Deemed-to-be University  
-💻 Skilled in **Web Development, Cloud Computing, and Database Management**  
-🚀 Passionate about building **scalable, efficient, and impactful applications**
-
-- 🌱 Currently learning: **Generative AI & Cloud Infrastructure**  
-- 🌐 Portfolio: [My Portfolio](https://akhilesh-portfolio-taupe.vercel.app/)  
-- 📫 Reach me at: **akhileshreddy1246@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-reddy-612580292/) | [GitHub](https://github.com/akhilesh-reddy2005)  
+- 🛠️ I'm currently working on **full-stack web applications and freelance projects**  
+- 🌱 I'm currently learning **Generative AI & Cloud Infrastructure**  
+- 🤝 I'm looking to collaborate on **innovative open-source projects**  
+- 💼 Available for **freelance website development projects**  
+- 💬 Ask me about **Python, JavaScript, and data visualization**  
 
 </td>
 <td width="40%" align="center">
@@ -37,6 +36,9 @@
 </td>
 </tr>
 </table>
+
+---
+
 
 ---
 
