@@ -23,7 +23,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 </p>
 
 <p align="right">
- [ <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="300" style="background:none; border:none; box-shadow:none;" />](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif;" />
 </p>
 
 ---
