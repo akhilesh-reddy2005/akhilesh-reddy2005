@@ -77,6 +77,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 </p>
 
 ## 📊 GitHub Stats  
+  <p>
   <img
     src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=github-dark&hide_border=true"
     height="180"
