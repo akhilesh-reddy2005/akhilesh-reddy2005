@@ -80,24 +80,16 @@ My focus is on solving real-world challenges through clean code, creativity, and
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak" /> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=akhilesh-reddy2005&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilesh-reddy2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhilesh-reddy2005&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
 
 ---
 
