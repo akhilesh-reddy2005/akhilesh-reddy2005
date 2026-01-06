@@ -44,7 +44,7 @@ This document outlines the performance optimizations implemented in the GitHub p
   - **Result:** Smaller badge image, faster rendering
 
 - **Tech Joke Card:**
-  - Added `&hideBorder` parameter
+  - Added `&hideBorder=true` parameter
   - Simplifies rendering, reduces image complexity
 
 ### 5. Responsive Image Loading with Picture Element
