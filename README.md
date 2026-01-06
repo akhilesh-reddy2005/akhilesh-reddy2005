@@ -100,7 +100,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 ## 😂 Daily Tech Joke  
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Tech Joke" loading="lazy"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Tech Joke" loading="lazy"/>
 </p>
 
 ---
