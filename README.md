@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=👋%20Hi,%20I'm%20Akhilesh%20Reddy&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" loading="lazy" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;🌱+Exploring+AI+%26+Cloud;💡+Turning+ideas+into+solutions;🤝+Open+to+collaborations" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=14B8A6&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;🌱+Exploring+AI+%26+Cloud;💡+Turning+ideas+into+solutions;🤝+Open+to+collaborations" alt="Typing Animation" loading="lazy" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 </p>
 
 <p align="right">
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif;" />
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="300" loading="lazy" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 ## 🛠 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,cpp,java,react,nodejs,mongodb,sql,firebase,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,cpp,java,react,nodejs,mongodb,sql,firebase,git,github,vscode,postman,figma&theme=dark" alt="Tech Stack" loading="lazy" />
 </p>
 
 ---
@@ -73,15 +73,16 @@ My focus is on solving real-world challenges through clean code, creativity, and
 
 ## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilesh-reddy2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=akhilesh-reddy2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" loading="lazy"/>
 </p>
 
 ## 📊 GitHub Stats  
   <p>
   <img
-    src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
     height="180"
     alt="GitHub Streak"
+    loading="lazy"
   />
 </p>
 
@@ -89,7 +90,11 @@ My focus is on solving real-world challenges through clean code, creativity, and
 ## 🐍 Contribution Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/akhilesh-reddy2005/akhilesh-reddy2005/output/github-contribution-grid-snake.svg" loading="lazy">
+  </picture>
 </p>
 
 ---
@@ -97,7 +102,7 @@ My focus is on solving real-world challenges through clean code, creativity, and
 ## 😂 Daily Tech Joke  
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Tech Joke" loading="lazy"/>
 </p>
 
 ---
