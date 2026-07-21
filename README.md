@@ -1,96 +1,65 @@
 <div align="center">
-Akhilesh Reddy
 
-Full Stack Developer · MERN · Cloud & AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF6B6B,50:C837AB,100:5B5BE5&text=Akhilesh%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Generative%20AI%20%7C%20Cloud%20Enthusiast&descAlignY=56&descSize=20" width="100%" />
 
-<sub>B.Tech Computer Science, Jain University — Bangalore, India</sub>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=850&lines=👋+Hello,+I'm+Akhilesh+Reddy;🚀+Full+Stack+Developer;⚛️+MERN+Stack+Developer;🤖+Building+AI-Powered+Applications;☁️+Cloud+Computing+Enthusiast;💡+Always+Learning+New+Technologies" />
 
-Show Image Show Image Show Image
+<br><br>
 
-</div> <br/>
-About
+<a href="https://www.akhileshreddy.in/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-I build scalable, user-friendly web applications with the MERN stack, and I'm currently expanding into Generative AI and cloud infrastructure. I like solving real problems with clean code — recent focus areas include hackathons, internships, and shipping full-stack projects end to end.
+<a href="https://www.linkedin.com/in/akhilesh-reddy-612580292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🔭 Currently exploring Generative AI and Cloud Infrastructure
-🥇 Top 10 finish — Hack4Change hackathon
-💼 Full Stack Intern — Infotact Solutions
-📫 Reach me at akhileshreddy1246@gmail.com
-<br/>
-Stack
-<table> <tr> <td width="140" valign="top"><b>Languages</b></td> <td>
+<a href="mailto:akhileshreddy1246@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-JavaScript Python C++ Java PHP SQL
+<a href="https://github.com/akhilesh-reddy2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td> </tr> <tr> <td valign="top"><b>Frontend</b></td> <td>
+<br><br>
 
-React HTML5 CSS3
+<img src="https://komarev.com/ghpvc/?username=akhilesh-reddy2005&label=Profile%20Views&color=FF6B6B&style=for-the-badge"/>
 
-</td> </tr> <tr> <td valign="top"><b>Backend</b></td> <td>
+<img src="https://img.shields.io/github/followers/akhilesh-reddy2005?style=for-the-badge&color=C837AB"/>
 
-Node.js Express MongoDB Firebase
-
-</td> </tr> <tr> <td valign="top"><b>Tools</b></td> <td>
-
-Git GitHub VS Code Postman Figma
-
-</td> </tr> </table> <br/>
-Projects
-<table> <tr> <td width="33%" valign="top">
-
-Shortest Roadway for Power Restoration
-
-Dijkstra's Algorithm + GIS mapping to optimize power restoration routes, with a real-time visualization backend.
-
-View →
-
-</td> <td width="33%" valign="top">
-
-Shinex Seeds Portfolio
-
-Responsive business portfolio site with backend integration, SEO optimization, and cross-browser support.
-
-View →
-
-</td> <td width="33%" valign="top">
-
-Campus Reporting Portal
-
-Built in 24 hours at Buildverse — a working prototype for reporting and tracking campus issues.
-
-</td> </tr> </table> <br/>
-Achievements
-	
-🥇	Top 10 team — Hack4Change Hackathon
-💼	Full Stack Internship — Infotact Solutions (MERN)
-✅	Responsive Web Design certification
-✅	SEO certification
-✅	Google Cloud Study Jams
-<br/>
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=false" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=default&hide_border=true" height="165"/> <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=default&hide_border=true&background=FFFFFF00" height="165"/> </div> <details> <summary><b>Contribution snake</b></summary> <br/> <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/> </div> </details> <br/>
-Currently Building
-
-A short list I keep updated with what I'm actively shipping or learning.
-
- Deep dive into LLM-powered app development
- A cloud-deployed full-stack project (AWS/GCP)
- Contributing to an open-source repo
-<br/>
-Languages I Speak
-
-English Hindi Telugu Kannada Tamil
-
-<br/> <div align="center">
-
-<sub>📍 Bangalore, Karnataka, India · 📱 +91-7760007395</sub>
-
-<br/> <img src="https://komarev.com/ghpvc/?username=akhilesh-reddy2005&label=Profile+Views&color=000000&style=flat-square" alt="views"/>
-
-<br/><br/>
-
-<i>"Turning ideas into scalable solutions with code & creativity."</i>
+<img src="https://img.shields.io/github/stars/akhilesh-reddy2005?affiliations=OWNER&style=for-the-badge&color=5B5BE5"/>
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
+## Hi there 👋
+
+I'm **Akhilesh Reddy**, a passionate **Full Stack Developer** and **Computer Science Engineering student** at **Jain (Deemed-to-be) University, Bangalore**.
+
+I enjoy transforming ideas into scalable web applications using modern technologies. My interests span **MERN Stack**, **Artificial Intelligence**, **Cloud Computing**, and **System Design**.
+
+### 🚀 Current Focus
+
+- 🤖 Learning Generative AI & LLM Applications
+- ☁️ Exploring AWS & Google Cloud
+- 💻 Building Full Stack Projects
+- 🌱 Contributing to Open Source
+- 📚 Preparing for Software Engineering Roles
+
+### 💼 Experience
+
+- 💼 Full Stack Developer Intern — **Infotact Solutions**
+- 🏆 Top 10 Finalist — Hack4Change Hackathon
+- 💡 Passionate about solving real-world problems through technology
+
+<br clear="right"/>
+
+---
