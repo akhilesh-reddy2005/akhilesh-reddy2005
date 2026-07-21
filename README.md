@@ -63,3 +63,180 @@ I enjoy transforming ideas into scalable web applications using modern technolog
 <br clear="right"/>
 
 ---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,php,mysql&theme=dark" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,supabase&theme=dark" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions&theme=dark" />
+</p>
+
+---
+
+### 🧰 Tools & Software
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,tensorflow&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 💻 Technical Skills
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 🚀 Frontend
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- Tailwind CSS
+- Vite
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Firebase
+- MongoDB
+- Supabase
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💾 Database
+
+- MongoDB
+- MySQL
+- Firebase Firestore
+- Supabase
+- Data Modeling
+
+</td>
+
+<td>
+
+### ☁️ Cloud
+
+- Google Cloud
+- AWS (Learning)
+- Vercel
+- Render
+- Netlify
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+
+### 🤖 AI / ML
+
+- Python
+- Scikit-Learn
+- OpenAI APIs
+- Gemini API
+- Prompt Engineering
+- OCR
+- Machine Learning
+
+</td>
+
+<td>
+
+### 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+- npm
+- Linux Basics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📈 Skill Progress
+
+| Technology | Level |
+|------------|-------|
+| JavaScript | ██████████ 95% |
+| React.js | █████████░ 90% |
+| Node.js | █████████░ 90% |
+| Express.js | █████████░ 90% |
+| MongoDB | ████████░░ 85% |
+| Firebase | ████████░░ 85% |
+| SQL | ████████░░ 80% |
+| Python | ████████░░ 80% |
+| Cloud Computing | ██████░░░░ 65% |
+| Generative AI | ███████░░░ 70% |
+
+---
+
+<div align="center">
+
+### ⚡ Favorite Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,python,git&theme=dark" />
+
+</div>
+
+---
