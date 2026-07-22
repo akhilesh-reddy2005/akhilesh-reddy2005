@@ -1,12 +1,6 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:22D3EE,100:10B981&text=Akhilesh%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Exploring+Generative+AI;Diving+into+Cloud+Infrastructure;Open+to+Collaborations!" alt="Typing SVG" /> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,50:C837AB,100:5B5BE5&text=Akhilesh%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%26%20Cloud&descAlignY=55&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=900&color=FF6B6B,C837AB,5B5BE5&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer+(MERN);%F0%9F%A7%A0+Exploring+Generative+AI;%E2%98%81%EF%B8%8F+Diving+into+Cloud+Infra;%F0%9F%A4%9D+Open+to+Collaborations!" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://akhilesh-portfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.akhileshreddy.in/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/akhilesh-reddy-612580292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:akhileshreddy1246@gmail.com"><img src="https://img.shields.io/badge/Gmail-C837AB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/akhilesh-reddy2005"><img src="https://img.shields.io/badge/GitHub-5B5BE5?style=for-the-badge&logo=github&logoColor=white"/></a>
