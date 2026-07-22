@@ -83,17 +83,7 @@ I'm a **Full Stack Developer** and B.Tech Computer Science student at **Jain Uni
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=radical&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-reddy2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-reddy2005&layout=compact&theme=radical&hide_border=true" height="165"/> <img src="https://streak-stats.demolab.com?user=akhilesh-reddy2005&theme=radical&hide_border=true" height="165"/> </div> <div align="center">
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
